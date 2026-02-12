@@ -1,14 +1,6 @@
-# Expertise in Test-Driven Development (TDD) and Extreme Programming (XP)
+# Gemini CLI Skill: Expertise in Test-Driven Development (TDD) and Extreme Programming (XP)
 
 [Original File](https://github.com/h3xar0n/tdd-xp-demo/blob/main/GEMINI.md)
-
-To make your skill "discoverable" and easy to install, your GitHub repository needs a `README.md` that provides clear installation instructions and a description of the skill's capabilities.
-
-Here is a template you can use.
-
----
-
-# 🚀 Gemini CLI Skill: TDD & XP Expert
 
 This repository contains a **Gemini CLI Skill** designed to enforce the discipline of **Test-Driven Development (TDD)** and **Extreme Programming (XP)**. Once installed, it guides Gemini to act as a pair programmer that prioritizes the Red-Green-Refactor cycle.
 
